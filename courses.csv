@@ -1,0 +1,9 @@
+COURSEID,COURSENAME,COURSEINFORMATION,PROFESSORID
+1,vlsi,Learn_integrated_circuits,pf01
+2,Analog,Learn_analog_communication_and_wave_propogation,pf03
+3,Digital,Learn_integrated_circuits_and_logic_circuits_working,pf04
+4,DSP,Digital_signal_Processing,pf05
+5,IC,Learn_digital_circuits_manufacturing,pf06
+6,Microcontroller,Microcontroller_and_its_applications,pf08
+7,OOPS,Object_Oriented_concepts,pf02
+8,Physics,Learn_about_physics_laws,pf08
